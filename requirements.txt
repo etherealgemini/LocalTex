@@ -1,0 +1,15 @@
+datasets
+fastwer
+jiwer
+Pillow
+PyQt6
+PyQt6_sip
+pyqt6-webengine
+qwen_vl_utils
+rouge
+torch==2.5.1+cu124
+tqdm
+transformers==4.48.2
+Unidecode
+matplotlib
+numpy
