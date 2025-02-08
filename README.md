@@ -17,8 +17,8 @@
 linux系统（含wsl）可以安装flash-attn以支持flash-attention-2.
 
 ```shell
-git clone ...
-cd ...
+git clone https://github.com/etherealgemini/LocalTex.git
+cd LocalTex
 
 conda create -n localtex python=3.9 # 强烈建议新建环境
 pip install -r requirement
