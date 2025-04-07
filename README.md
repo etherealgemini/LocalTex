@@ -38,9 +38,6 @@ python main.py
 |                                               | CER               | 0.24  |
 |                                               |                   |       |
 
-经测试，`prithivMLmods/Qwen2-VL-OCR-2B-Instruct (bf16)`无法识别demo中的hard.png。
-量化后的版本似乎结果下降的比较严重，
-
 ## TODO
 
 - [ ] 测试更多模型
