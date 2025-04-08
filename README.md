@@ -36,6 +36,9 @@ python main.py
 |-----------------------------------------------|-------------------|-------|
 | prithivMLmods/Qwen2-VL-OCR-2B-Instruct (bf16) | rouge-l: f1-score | 0.88  |
 |                                               | CER               | 0.24  |
+| etherealgemini/Qwen2_5-VL-OCR-3B-Instruct (bf16) | rouge-l: f1-score | 0.91  |
+|                                               | CER               | 0.21  |
+|                                               |                   |       |
 |                                               |                   |       |
 
 ## TODO
